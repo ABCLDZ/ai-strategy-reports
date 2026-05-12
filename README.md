@@ -1,2 +1,21 @@
-# ai-strategy-reports
-AI及产业研究独立作品集 | Independent Industry Research Portfolio
+# AI 与产业研究独立作品集
+
+电子科技大学软件工程硕士研究生在读，半导体与AI跨学科背景。本仓库收录五份独立完成的深度产业研报，覆盖宏观产业格局、AI技术路线、垂直赛道商业化、工程落地及用户行为分析。
+
+**所有报告的分析框架、核心逻辑与结论均由本人独立完成，AI工具辅助数据检索与文字润色。**
+
+## 研究报告目录
+
+| 维度 | 报告 | 核心问题 |
+|------|------|----------|
+| 宏观观察 | [全球产业链重构](./global-supply-chain-report.pdf) | 效率优先转向安全优先后，资产如何重新定价？ |
+| 行业研究 | [AI算力约束下的因果推理](./ai-compute-constraints-report.pdf) | 算力受限时，算法优化能否替代硬件堆叠？ |
+| 商业观察 | [银发基建与具身智能](./elderly-infra-embodied-ai-report.pdf) | 养老机器人的成本账什么时候能跑通？ |
+| 工程复盘 | [企业级AI Agent系统](./ai-agent-engineering-review.pdf) | 脱网涉密环境下，AI Agent能否可靠落地？ |
+| 社会洞察 | [青年账本重构](./youth-debt-consumption-report.pdf) | 个人债务如何系统性压制消费与婚育？ |
+
+## 关于我
+
+- 半导体工程与AI微调跨学科背景，能从底层技术视角拆解商业逻辑
+- 有企业级AI Agent项目落地经验，完成全流程成本核算
+- 邮箱：[你的邮箱]
